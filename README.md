@@ -34,18 +34,19 @@ Here `x` is the feature map output by an encoder stage, and `Post` is BatchNorm 
 
 ## Code
 
-Code and full per-run results will be released here upon acceptance.
+Code and full per-run results are provided.
 
 ## Citation
 
 ```bibtex
-@inproceedings{ghasembeiky2026maxsig,
+@inproceedings{yazdi2026maxsig,
   title  = {Lightweight Order-Statistic Gate for Transformer-Based Breast Ultrasound Lesion Segmentation},
   author = {Ghasembeiky, Shayan and Karbasi, Soheila and Yazdi, Reza},
+  booktitle={The 33rd National and the 11th International Conference on Biomedical Engineering of Iran},
   year   = {2026}
 }
 ```
 
 ## Contact
 
-Shayan Ghasembeiky: shghasembeiky@gmail.com
+Reza Yazdi: r.yazdi@gu.ac.ir
