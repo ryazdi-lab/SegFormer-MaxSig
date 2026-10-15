@@ -34,7 +34,7 @@ Here `x` is the feature map output by an encoder stage, and `Post` is BatchNorm 
 
 ## Code
 
-Code and full per-run results are provided.
+Code and full per-run results are available in this repository.
 
 ## Citation
 
